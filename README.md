@@ -24,7 +24,6 @@ The Face Detection Component utilizes advanced computer vision algorithms to det
 
 **Help & Support**
 For assistance or inquiries regarding the Face Recognition Attendance System, please refer to the following resources:
-![Help   Support Page](https://github.com/MdNadeemSarwar/Face-Recognition-Attendance-System/assets/107212111/4173324a-e7b1-4c51-9137-8ea12cce5215)
 
 **Developer Resources!**
 If you're interested in contributing to the Face Recognition Attendance System or exploring its underlying codebase, the following resources are available:
